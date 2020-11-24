@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ApaGreedy.dir/main.c.o  -o ApaGreedy 
